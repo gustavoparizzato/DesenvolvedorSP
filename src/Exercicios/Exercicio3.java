@@ -11,10 +11,9 @@ public class Exercicio3 {
     public static void main(String[] args) throws IOException{
   
 /*
-JSON utilizado no exemplo:
-[1200.0, 0.0, 1800.0, 1500.0, 2200.0, 1900.0, 1300.0, 0.0, 2500.0, 2800.0, 2000.0, 2300.0, 1400.0, 1800.0, 0.0, 1900.0, 2100.0, 1600.0, 2200.0,
-2000.0, 1800.0, 0.0, 2300.0, 2500.0, 2000.0, 2100.0, 1500.0, 1700.0, 0.0, 2400.0]
-Disponível também no arquivo 'faturamento.json' dentro do pacote.
+JSON utilizado disponível no arquivo 'faturamento.json' dentro do pacote.
+Estou atualizando o projeto novamente para informar através deste comentário que não vi os arquivos disponibilizados para utilizar no programa, 
+peço desculpas.
 */
   
         String json = "c:\\faturamento.json";
